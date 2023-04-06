@@ -86,9 +86,10 @@ print("RMSE:", rmse)
 
 
 ## Output:
-![image](https://user-images.116153626/230391473-769e167f-7f01-4319-b809-b6ff2125553a.png)
-![image](https://user-images.116153626/230392866-56fa5b05-f5cf-42f9-9b24-1dc601a344a0.png)
-![image](https://user-images.116153626/230393096-77161a2d-3067-4e63-a5a1-02364aee987a.png)
+
+![image](https://user-images.githubusercontent.com/116153626/230393763-351366e0-63de-4ede-aa2a-6b1b76aeca89.png)
+![image](https://user-images.githubusercontent.com/116153626/230393815-d831045c-c565-4414-9cac-b619b8921002.png)
+![image](https://user-images.githubusercontent.com/116153626/230393939-a4b74475-510a-4d47-a615-4ab84be6420c.png)
 
 
  
