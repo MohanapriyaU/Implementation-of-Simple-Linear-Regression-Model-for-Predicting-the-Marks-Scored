@@ -87,7 +87,9 @@ print("RMSE:", rmse)
 
 ## Output:
 
-https://user-images.githubusercontent.com/113583090/230037101-629901be-9200-45df-ae17-14d79308c704.png
+<img width="576" alt="ex_2 op2" src="https://user-images.githubusercontent.com/113583090/230037000-7676c828-f63a-4839-9001-0839ee8a732b.png">
+<img width="576" alt="exp_2 op1" src="https://user-images.githubusercontent.com/113583090/230037101-629901be-9200-45df-ae17-14d79308c704.png">
+<img width="409" alt="exp_2 op" src="https://user-images.githubusercontent.com/113583090/230037188-ed1db472-94ca-47e9-930b-af1d96a2a2ff.png">
 
  
 
