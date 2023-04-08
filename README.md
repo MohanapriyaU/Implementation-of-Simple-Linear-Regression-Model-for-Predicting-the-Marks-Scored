@@ -24,11 +24,13 @@ Algorithm
 
 6.Compare the graphs and hence we obtain the LinearRegression for the given data.
 
+Program:
 
+/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Mohanapriya U
 RegisterNumber:  212220040091
-
+/*
 
 import numpy as np
 import pandas as pd
