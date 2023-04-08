@@ -1,28 +1,9 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-
-## AIM:
-To write a program to predict the marks scored by a student using the simple linear regression model.
-
-## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
-## Algorithm
-1. Use the standard libraries in python.
-2. Set variables for assigning data set values.
-3. Import Linear Regression from the sklearn.
-4. Assign the points for representing the graph.
-5.Predict the regression for marks by using the representation of the graph.
-6.Compare the graphs and hence we obtain the LinearRegression for the given data.
-
-
-## Program:
-```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by:Mohanapriya U
-RegisterNumber: 212220040091
+Developed by: Mohanapriya U
+RegisterNumber:  212220040091
 */
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -40,7 +21,7 @@ print(x)
 print(y)
 
 from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split 
+from sklearn.model_selection import train_test_split
 
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=1/3,random_state=0 )
 
@@ -79,20 +60,12 @@ print("MAE:",mae)
 print("MSE:", mse)
 print("RMSE:", rmse)
 
+##Output:
+![image](https://user-images.githubusercontent.com/116153626/230723194-998fd534-5068-487d-9109-90e22d18d2d2.png)
+![image](https://user-images.githubusercontent.com/116153626/230723231-60592632-80d8-4fca-b117-87c75c191ebe.png)
+![image](https://user-images.githubusercontent.com/116153626/230723248-559c331a-aed8-4c9a-9296-179a5f325385.png)
 
-
-
-
-
-
-## Output:
-![image](https://user-images.githubusercontent.com/116153626/230723038-59b389c5-63b8-4165-a137-136b10592455.png)
-![image](https://user-images.githubusercontent.com/116153626/230723060-19345fe5-5ffd-45a9-b839-5ef4b343313c.png)
-![image](https://user-images.githubusercontent.com/116153626/230723070-de72ccef-7e76-471d-b736-d63255040487.png)
-
-
-
-
-
-## Result:
+##Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+
+
