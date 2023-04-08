@@ -1,8 +1,8 @@
-/*
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Mohanapriya U
 RegisterNumber:  212220040091
-*/
+
 
 import numpy as np
 import pandas as pd
@@ -60,12 +60,12 @@ print("MAE:",mae)
 print("MSE:", mse)
 print("RMSE:", rmse)
 
-##Output:
+Output:
 ![image](https://user-images.githubusercontent.com/116153626/230723194-998fd534-5068-487d-9109-90e22d18d2d2.png)
 ![image](https://user-images.githubusercontent.com/116153626/230723231-60592632-80d8-4fca-b117-87c75c191ebe.png)
 ![image](https://user-images.githubusercontent.com/116153626/230723248-559c331a-aed8-4c9a-9296-179a5f325385.png)
 
-##Result:
+Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
 
 
