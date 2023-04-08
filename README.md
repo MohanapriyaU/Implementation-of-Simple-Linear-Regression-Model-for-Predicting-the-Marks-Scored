@@ -28,7 +28,9 @@ Program:
 
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: Mohanapriya U
+
 RegisterNumber:  212220040091
 /*
 
